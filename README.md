@@ -1,5 +1,8 @@
 ## Get IP Iran
-This script is for get iran ip subnet and added to address list Mikrotik
+This Script is for get Iran ip Subnet and added to Address list Mikrotik
+
+## Update
+2025/01/26
 
 ## How to use script
 ```bash
