@@ -2095,7 +2095,7 @@ add address=194.59.171.0/24 comment="AS201227 Mizban Dade Pasargad LLC" list=\
     IR
 add address=185.81.99.0/24 comment="AS201227 Mizban Dade Pasargad LLC" list=\
     IR
-add address=185.60.32.0/22 comment=\
+add address=185.60.32.0/23 comment=\
     "AS201259 Pardakht Electronic Pasargad (P.J.S)" list=IR
 add address=185.60.34.0/24 comment=\
     "AS201259 Pardakht Electronic Pasargad (P.J.S)" list=IR
@@ -2892,7 +2892,7 @@ add address=37.202.136.0/22 comment="AS205647 PARDIS FANVARI PARTAK LTD" \
     list=IR
 add address=188.0.245.0/24 comment=\
     "AS205833 Al-mustafa International University" list=IR
-add address=185.203.160.0/22 comment=\
+add address=185.203.160.0/24 comment=\
     "AS205837 Sadad Electronic Payment Company P.J.S." list=IR
 add address=185.203.163.0/24 comment=\
     "AS205837 Sadad Electronic Payment Company P.J.S." list=IR
@@ -3283,7 +3283,7 @@ add address=87.248.137.0/24 comment="AS208161 Pars Shabakeh Azarakhsh LLC" \
 add address=45.150.88.0/22 comment=\
     "AS208246 Iran Fara Bourse Co. (Public Joint Stock)" list=IR
 add address=193.8.95.0/24 comment="AS208264 HAMED SHIRVANI BAGHERI" list=IR
-add address=45.129.116.0/22 comment="AS208493 Pasargad Bank PJSC" list=IR
+add address=45.129.116.0/24 comment="AS208493 Pasargad Bank PJSC" list=IR
 add address=45.129.117.0/24 comment="AS208493 Pasargad Bank PJSC" list=IR
 add address=45.129.119.0/24 comment="AS208493 Pasargad Bank PJSC" list=IR
 add address=185.3.124.0/22 comment="AS208555 Dade Pardazi Mobinhost Co LTD" \
@@ -6570,13 +6570,13 @@ add address=185.83.209.0/24 comment="AS42468 Behin Ertebatat Faragir Co. Ltd" \
     list=IR
 add address=77.36.128.0/17 comment=\
     "AS42586 IRIB (Islamic Republic of Iran Broadcasting)" list=IR
-add address=91.225.52.0/22 comment=\
+add address=91.225.52.0/24 comment=\
     "AS42586 IRIB (Islamic Republic of Iran Broadcasting)" list=IR
-add address=77.36.160.0/19 comment=\
+add address=77.36.160.0/20 comment=\
     "AS42586 IRIB (Islamic Republic of Iran Broadcasting)" list=IR
-add address=77.36.192.0/19 comment=\
+add address=77.36.192.0/20 comment=\
     "AS42586 IRIB (Islamic Republic of Iran Broadcasting)" list=IR
-add address=77.36.224.0/19 comment=\
+add address=77.36.224.0/20 comment=\
     "AS42586 IRIB (Islamic Republic of Iran Broadcasting)" list=IR
 add address=77.36.144.0/20 comment=\
     "AS42586 IRIB (Islamic Republic of Iran Broadcasting)" list=IR
@@ -6620,8 +6620,8 @@ add address=77.245.236.0/24 comment=\
 add address=193.105.2.0/24 comment=\
     "AS42915 Engeneering Designing and Supply the parts of Iran Khodro PJSC" \
     list=IR
-add address=185.192.8.0/22 comment="AS42990 Bank Saderat Iran PJSC" list=IR
-add address=185.192.10.0/24 comment="AS42990 Bank Saderat Iran PJSC" list=IR
+add address=185.192.8.0/23 comment="AS42990 Bank Saderat Iran PJSC" list=IR
+add address=185.192.10.0/23 comment="AS42990 Bank Saderat Iran PJSC" list=IR
 add address=185.192.9.0/24 comment="AS42990 Bank Saderat Iran PJSC" list=IR
 add address=91.225.54.0/23 comment=\
     "AS43135 Moavenate rasaneh majazi seda va sima" list=IR
@@ -9292,7 +9292,7 @@ add address=95.142.235.0/24 comment="AS49680 Armaghan Rahe Talaie" list=IR
 add address=95.142.227.0/24 comment="AS49680 Armaghan Rahe Talaie" list=IR
 add address=95.142.234.0/24 comment="AS49680 Armaghan Rahe Talaie" list=IR
 add address=95.142.233.0/24 comment="AS49680 Armaghan Rahe Talaie" list=IR
-add address=185.167.72.0/22 comment=\
+add address=185.167.72.0/23 comment=\
     "AS49796 Shaparak Electronic Card Payment Network Company PJS" list=IR
 add address=185.167.73.0/24 comment=\
     "AS49796 Shaparak Electronic Card Payment Network Company PJS" list=IR
@@ -9780,8 +9780,6 @@ add address=45.147.78.0/24 comment=\
     "AS51889 Gostaresh Pardazesh Dana Negar Co.(PJSC)" list=IR
 add address=46.143.208.0/21 comment=\
     "AS51897 MIHAN COMMUNICATION SYSTEMS CO.,LTD" list=IR
-add address=178.21.40.0/21 comment=\
-    "AS52070 Parsian Bank (Public Joint-Stock)" list=IR
 add address=178.21.41.0/24 comment=\
     "AS52070 Parsian Bank (Public Joint-Stock)" list=IR
 add address=178.21.40.0/24 comment=\
@@ -10229,11 +10227,11 @@ add address=95.81.83.0/24 comment="AS57391 Laser Company Ltd" list=IR
 add address=185.130.76.0/22 comment="AS57292 ICT Research Institute Iran Telec\
     ommunications Research Center ITRC" list=IR
 add address=95.81.89.0/24 comment="AS57391 Laser Company Ltd" list=IR
-add address=91.232.64.0/22 comment="AS57457 Asan Pardakht Persian Co. LTD" \
+add address=91.232.64.0/24 comment="AS57457 Asan Pardakht Persian Co. LTD" \
     list=IR
 add address=91.232.68.0/23 comment="AS57457 Asan Pardakht Persian Co. LTD" \
     list=IR
-add address=185.210.200.0/22 comment="AS57457 Asan Pardakht Persian Co. LTD" \
+add address=185.210.200.0/24 comment="AS57457 Asan Pardakht Persian Co. LTD" \
     list=IR
 add address=91.232.65.0/24 comment="AS57457 Asan Pardakht Persian Co. LTD" \
     list=IR
@@ -13190,9 +13188,9 @@ add address=80.253.157.0/24 comment=\
     "AS59708 Rayan Hamafza Company Private Joint Stock" list=IR
 add address=185.4.105.0/24 comment=\
     "AS59708 Rayan Hamafza Company Private Joint Stock" list=IR
-add address=185.73.76.0/22 comment="AS59754 Bank of Industry and Mine PJSC" \
+add address=185.73.76.0/24 comment="AS59754 Bank of Industry and Mine PJSC" \
     list=IR
-add address=185.73.78.0/23 comment="AS59754 Bank of Industry and Mine PJSC" \
+add address=185.73.78.0/24 comment="AS59754 Bank of Industry and Mine PJSC" \
     list=IR
 add address=185.73.77.0/24 comment="AS59754 Bank of Industry and Mine PJSC" \
     list=IR
@@ -13327,7 +13325,7 @@ add address=185.133.246.0/24 comment=\
 add address=185.32.128.0/22 comment="AS60340 Iranian company of Saipa automobi\
     le manufacturing Public Joint Stock" list=IR
 add address=5.56.134.0/24 comment="AS60374 Jahesh Server" list=IR
-add address=185.31.124.0/22 comment=\
+add address=185.31.124.0/23 comment=\
     "AS60407 Tourism Bank (Public Joint Stock)" list=IR
 add address=185.31.126.0/23 comment=\
     "AS60407 Tourism Bank (Public Joint Stock)" list=IR
@@ -13611,7 +13609,7 @@ add address=185.172.68.0/22 comment="AS62196 Rayan Ravesh Sena Ltd" list=IR
 add address=185.92.40.0/22 comment="AS62196 Rayan Ravesh Sena Ltd" list=IR
 add address=2.189.176.0/21 comment="AS62196 Rayan Ravesh Sena Ltd" list=IR
 add address=185.172.70.0/23 comment="AS62196 Rayan Ravesh Sena Ltd" list=IR
-add address=185.44.100.0/22 comment=\
+add address=185.44.100.0/24 comment=\
     "AS62198 Melal Credit Company (Public Joint Stock)" list=IR
 add address=185.44.101.0/24 comment=\
     "AS62198 Melal Credit Company (Public Joint Stock)" list=IR
@@ -13662,7 +13660,7 @@ add address=185.185.17.0/24 comment="AS62334 Seyed Amir Tabatabaei Anaraki" \
     list=IR
 add address=185.185.19.0/24 comment="AS62334 Seyed Amir Tabatabaei Anaraki" \
     list=IR
-add address=87.107.134.0/24 comment="AS62367 Pardakht Nowin Arian PJSC" list=\
+add address=87.107.134.0/23 comment="AS62367 Pardakht Nowin Arian PJSC" list=\
     IR
 add address=87.107.135.0/24 comment="AS62367 Pardakht Nowin Arian PJSC" list=\
     IR
@@ -13876,6 +13874,21 @@ add address=212.86.86.0/24 comment=\
 add address=91.237.254.0/23 comment="AS58030 HotwifiCommunicationLtd" list=IR
 add address=91.238.0.0/24 comment="AS58030 HotwifiCommunicationLtd" list=IR
 add address=91.237.255.0/24 comment="AS58030 HotwifiCommunicationLtd" list=IR
+add address=194.225.137.0/24 comment="AS42990 Bank Saderat Iran PJSC" list=IR
+add address=185.232.178.0/24 comment=\
+    "AS205894 Export Development Bank of Iran - Public Joint Stock" list=IR
+add address=146.66.135.0/24 comment="AS31182 SAMAN BANK PJSC" list=IR
+add address=178.215.9.0/24 comment="AS51241 IRAN POST Company" list=IR
+add address=185.60.33.0/24 comment=\
+    "AS201259 Pardakht Electronic Pasargad (P.J.S)" list=IR
+add address=185.203.162.0/24 comment=\
+    "AS205837 Sadad Electronic Payment Company P.J.S." list=IR
+add address=185.129.189.0/24 comment=\
+    "AS49796 Shaparak Electronic Card Payment Network Company PJS" list=IR
+add address=5.160.241.0/24 comment=\
+    "AS49796 Shaparak Electronic Card Payment Network Company PJS" list=IR
+add address=213.176.6.0/24 comment=\
+    "AS47216 Ettelaat Fanavarn-E Tookan Co Ltd" list=IR
 add address=104.28.37.237 comment="AS13335 Mashhad Cloudflare, Inc." list=IR
 add address=104.28.37.238 comment="AS13335 Mashhad Cloudflare, Inc." list=IR
 add address=104.28.37.239 comment="AS13335 Tehran Cloudflare, Inc." list=IR
@@ -13910,3 +13923,55 @@ add address=104.28.246.165 comment="AS13335 Tehran Cloudflare, Inc." list=IR
 add address=104.28.246.166 comment="AS13335 Tehran Cloudflare, Inc." list=IR
 add address=104.28.246.167 comment="AS13335 Tehran Cloudflare, Inc." list=IR
 add address=104.28.246.168 comment="AS13335 Tehran Cloudflare, Inc." list=IR
+add address=tosinso.com list=IR
+add address=app.bebin.pw list=IR
+add address=bebin.pw list=IR
+add address=mb.banksepah.ir comment="Bank Sepah" list=IR
+add address=mob2.ebanksepah.ir comment="Bank Sepah" list=IR
+add address=mbanking.rqbank.ir comment="Bank Resalat" list=IR
+add address=mbank.rqb.ir comment="Bank Resalat" list=IR
+add address=mobilebank2.parsian-bank.ir comment="Bank Parsian" list=IR
+add address=boot.net.anydesk.com comment="Any Desk" list=IR
+add address=irantk.ir comment=irantk.ir list=IR
+add address=ictadmins.com comment=ictadmins.com list=IR
+add address=fdn.digiboy.ir comment=fdn.digiboy.ir list=IR
+add address=digiboy.ir comment=digiboy.ir list=IR
+add address=my.tci.ir comment=my.tci.ir list=IR
+add address=adsl.tci.ir comment=adsl.tci.ir list=IR
+add address=dl.mybaran.us comment=dl.mybaran.us list=IR
+add address=aparatsport.com comment=aparatsport.com list=IR
+add address=ib.bpi.ir comment="Bank Pasargad" list=IR
+add address=bpi.ir comment="Bank Pasargad" list=IR
+add address=vbank.bpi.ir comment="Bank Pasargad" list=IR
+add address=presec.bpi.ir comment="Bank Pasargad" list=IR
+add address=oauth.bpi.ir comment="Bank Pasargad" list=IR
+add address=my.upto.ir comment=my.upto.ir list=IR
+add address=varzesh3.com list=IR
+add address=uptvs.com list=IR
+add address=dl8.ariahosting.sbs list=IR
+add address=ariahosting.sbs list=IR
+add address=myvalamovie.com list=IR
+add address=3pal.ir list=IR
+add address=hexdl.com list=IR
+add address=irmodl.ir list=IR
+add address=irmo.bar list=IR
+add address=digimoviez.com list=IR
+add address=digimovie187.sbs list=IR
+add address=dl12.akeacdn.com list=IR
+add address=cdn-ngmy.irancell.ir list=IR
+add address=my.mci.ir list=IR
+add address=preprod-cdn-ngmy.irancell.ir comment=Irancell list=IR
+add address=codepush.appcenter.ms comment=Irancell list=IR
+add address=tamin.ir list=IR
+add address=codal.ir list=IR
+add address=www.digikala.com list=IR
+add address=tgju.org list=IR
+add address=emalls.ir list=IR
+add address=tax.gov.ir list=IR
+add address=darman.tamin.ir list=IR
+add address=ep.tamin.ir list=IR
+add address=digikala.com list=IR
+add address=comekala.com list=IR
+add address=deltaww.com list=IR
+add address=anydesk.com list=IR
+add address=my.irancell.ir list=IR
