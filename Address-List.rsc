@@ -13043,3 +13043,5 @@ add address=217.218.127.0/24 comment=\
     "Telecommunication Intfrastructure Company" list=IR
 add address=217.218.155.0/24 comment=\
     "Telecommunication Intfrastructure Company" list=IR
+add address=10.0.0.0/8 comment=\
+    "Bank & Local Site Iran" list=IR
